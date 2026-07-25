@@ -1,50 +1,22 @@
 # AI API Gateway
 
-A simple and developer-friendly API gateway that provides unified access to multiple AI providers through a single API.
+A developer-friendly API gateway that provides unified access to multiple AI providers through a single API.
 
 ## Features
 
-- Unified API endpoint
-- Multiple AI provider support
-- Easy authentication
-- Fast and reliable responses
-- Simple integration
+- Unified API
+- Multiple AI providers
+- Easy integration
 - REST API
-- Open-source
+- Fast responses
 
-## Getting Started
+## Installation
 
-Clone the repository:
+Coming soon.
 
-```bash
-git clone https://github.com/yourusername/ai-api-gateway.git
-```
+## Documentation
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-or
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the server:
-
-```bash
-npm start
-```
-
-## Roadmap
-
-- Provider integrations
-- Better documentation
-- SDK support
-- Performance improvements
-- Community contributions
+Coming soon.
 
 ## License
 
